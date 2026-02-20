@@ -42,12 +42,12 @@ Currently working with:
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics
 
-![Cleiton Stats](https://github-readme-stats.vercel.app/api?username=cleitonvpinheiro&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonvpinheiro&layout=compact&theme=radical)
-
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cleitonvpinheiro&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonvpinheiro&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 ---
 
 ### 🤝 Connect with Me
