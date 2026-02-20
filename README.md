@@ -45,8 +45,8 @@ Currently working with:
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cleitonvpinheiro&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cleitonvpinheiro&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" src="https://stats-readme.vercel.app/api?username=cleitonvpinheiro&show_icons=true" />
+  <img height="170" src="https://stats-readme.vercel.app/api/top-langs/?username=cleitonvpinheiro&layout=compact" />
 </p>
 ---
 
