@@ -42,12 +42,7 @@ Currently working with:
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://stats-readme.vercel.app/api?username=cleitonvpinheiro&show_icons=true" />
-  <img height="170" src="https://stats-readme.vercel.app/api/top-langs/?username=cleitonvpinheiro&layout=compact" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=cleitonvpinheiro)
 ---
 
 ### 🤝 Connect with Me
