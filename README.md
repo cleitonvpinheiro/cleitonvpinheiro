@@ -51,7 +51,6 @@ Currently working with:
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/cleiton_vicente.p)
 
-[![Portifolio](https://portifoliocleitonpinheiro.netlify.app/)]
 
 ---
 
